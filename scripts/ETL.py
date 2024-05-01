@@ -9,6 +9,7 @@ import os
 from azure.storage.blob import BlobServiceClient
 import pandas as pd
 from io import BytesIO, StringIO
+from SQLAlchemy import create_engine
 
 # Azure Functions
 
