@@ -1,0 +1,40 @@
+topic_id,topic_desc
+TMC01,Frequent mental distress
+TOC10,"Disability status, including sensory or mobility limitations"
+TOC05,Oral health:  tooth retention
+TSC09,Ever had pneumococcal vaccine
+TSC10,Up-to-date with recommended vaccines and screenings - Men
+TSC11,Up-to-date with recommended vaccines and screenings - Women
+TSC01,Mammogram within past 2 years
+TSC03,Pap test within past 3 years
+TNC04,Obesity
+TSC02,Colorectal cancer screening
+TNC03,No leisure-time physical activity within past month
+TAC01,Current smoking
+TSC08,Influenza vaccine within past year
+TSC04,Diabetes screening within past 3 years
+TAC03,Binge drinking within past 30 days
+TMC03,Lifetime diagnosis of depression
+TCC02,Functional difficulties associated with subjective cognitive decline or memory loss among older adults
+TCC04,Talked with health care professional about subjective cognitive decline or memory loss
+TOC07,Self-rated health (fair to poor health)
+TOC08,Self-rated health (good to excellent health)
+TOC09,Prevalence of sufficient sleep
+TOC03,Recent activity limitations in past month
+TGC01,Provide care for a friend or family member in past month
+TGC03,Duration of caregiving among older adults
+TGC04,Intensity of caregiving among older adults
+TGC02,Expect to provide care for someone in the next two years
+TOC11,Arthritis among older adults
+TOC13,Fair or poor health among older adults with arthritis
+TGC05,Provide care for someone with cognitive impairment within the past month
+TCC01,Subjective cognitive decline or memory loss among older adults
+TCC03,Need assistance with day-to-day activities because of subjective cognitive decline or memory loss
+TNC01,Eating 2 or more fruits daily
+TNC02,Eating 3 or more vegetables daily
+TOC04,Taking medication for high blood pressure
+TOC01,Physically unhealthy days (mean number of days)
+TSC07,High blood pressure ever
+TSC06,Cholesterol checked in past 5 years
+TOC12,Severe joint pain among older adults with arthritis
+TOC06,Fall with injury within last year
