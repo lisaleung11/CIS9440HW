@@ -1,0 +1,20 @@
+YearEnd: The ending year of the data collection period.
+LocationDesc: The description of the location where the data was collected.
+Class: The classification or category of the health-related issue.
+Topic: The specific topic or subject of the health-related issue.
+Question: The question or statement related to the health-related issue.
+DataValueTypeID: Identifier for the type of data value (e.g., PRCTG for percentage).
+Data_Value_Type: The type of data value (e.g., Percentage).
+Data_Value: The actual value of the data related to the health issue.
+Low_Confidence_Limit: The lower limit of the confidence interval for the data value.
+High_Confidence_Limit: The upper limit of the confidence interval for the data value.
+Stratification1: The first level of stratification for the data (e.g., age group).
+StratificationCategory2: The category of the second level of stratification (e.g., gender, race/ethnicity).
+Stratification2: The second level of stratification for the data (e.g., male, female).
+Geolocation: The geographical coordinates of the location where the data was collected.
+ClassID: Identifier for the class/category of the health-related issue.
+TopicID: Identifier for the specific topic of the health-related issue.
+QuestionID: Identifier for the question/statement related to the health-related issue.
+LocationID: Identifier for the location where the data was collected.
+Longitude: The longitude coordinate of the location where the data was collected.
+Latitude: The latitude coordinate of the location where the data was collected.
