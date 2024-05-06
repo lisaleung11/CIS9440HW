@@ -210,8 +210,7 @@ new_column_names = {
 }
 
 percent_df = percent_df.rename(columns=new_column_names)
-#percent_df['fact_id'] = range(1, len(percent_df) + 1)
-new_order = ['fact_id', 'data_value', 'low_confidence_limit', 'high_confidence_limit', 'location_id', 'topic_id', 'class_id', 'year_start', 'year_end','question_id','stratification_id','Stratification1','StratificationCategory2','Stratification2']
+new_order = ['fact_id', 'data_value', 'low_confidence_limit', 'high_confidence_limit', 'location_id', 'topic_id', 'class_id', 'year_start', 'year_end','question_id','stratification_id']
 percent_df = percent_df[new_order]
 percent_df.head(20)
 
