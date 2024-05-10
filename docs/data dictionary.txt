@@ -1,0 +1,20 @@
+YearEnd(INT): The ending year of the data collection period.
+LocationDesc(VARCHAR): The description of the location where the data was collected.
+Class(VARCHAR): The classification or category of the health-related issue.
+Topic(VARCHAR): The specific topic or subject of the health-related issue.
+Question(VARVHAR): The question or statement related to the health-related issue.
+DataValueTypeID(VARCHAR): Identifier for the type of data value (e.g., PRCTG for percentage).
+Data_Value_Type(VARCHAR): The type of data value (e.g., Percentage).
+Data_Value(NUMERIC): The actual value of the data related to the health issue.
+Low_Confidence_Limit(NUMERIC): The lower limit of the confidence interval for the data value.
+High_Confidence_Limit(NUMERIC): The upper limit of the confidence interval for the data value.
+Stratification1(VARCHAR): The first level of stratification for the data (e.g., age group).
+StratificationCategory2(VARCHAR): The category of the second level of stratification (e.g., gender, race/ethnicity).
+Stratification2(VARCHAR): The second level of stratification for the data (e.g., male, female).
+Geolocation(VARCHAR): The geographical coordinates of the location where the data was collected.
+ClassID(VARCHAR): Identifier for the class/category of the health-related issue.
+TopicID(VARCHAR): Identifier for the specific topic of the health-related issue.
+QuestionID(VARCHAR): Identifier for the question/statement related to the health-related issue.
+LocationID(INT): Identifier for the location where the data was collected.
+Longitude(NUMERIC): The longitude coordinate of the location where the data was collected.
+Latitude(NUMERIC): The latitude coordinate of the location where the data was collected.
