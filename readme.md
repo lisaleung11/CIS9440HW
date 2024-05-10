@@ -3,6 +3,7 @@ This dataset contains information related to various health-related issues among
 
 # Scripts
 Scripts folder contain config.json file which is the connection string to azure storage.
+
 ETL.py contains the whole ETL processes such as pulling the data from cdc.gov, cleaning and reformatting the data, finally loading the dimension and fact tables to postgres. https://github.com/lisaleung11/CIS9440HW/blob/main/dimension%20modeling.png 
 
 ETL.ipynb is the jupyter notebote file for block testing.
@@ -13,6 +14,7 @@ https://github.com/lisaleung11/CIS9440HW/blob/main/models/alzheimer_data_model.s
 
 # Docs
 This folder contains:
+
 -csv file from dimension and fact tables
 
 -data dictionary 
