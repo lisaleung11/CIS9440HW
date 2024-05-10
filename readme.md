@@ -16,4 +16,4 @@ This folder contains:
 -visualization PowerPoint
 
 #Dimensional modeling
-![image]()
+![image](https://github.com/lisaleung11/CIS9440HW/blob/main/dimension%20modeling.png)
