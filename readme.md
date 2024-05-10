@@ -14,7 +14,7 @@ https://github.com/lisaleung11/CIS9440HW/blob/main/models/alzheimer_data_model.s
 This folder contains:
 -data dictionary https://github.com/lisaleung11/CIS9440HW/blob/main/docs/data%20dictionary.txt
 -csv file from dimension and fact tables.
--visualization PowerPoint
+-visualization PowerPoint https://github.com/lisaleung11/CIS9440HW/blob/main/docs/Alzheimer%20powerpoint.pptx
 
 # Dimensional modeling
 ![image](https://github.com/lisaleung11/CIS9440HW/blob/main/dimension%20modeling.png)
