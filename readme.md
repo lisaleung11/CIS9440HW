@@ -14,3 +14,6 @@ This folder contains:
 -data dictionary
 -csv file from dimension and fact tables.
 -visualization PowerPoint
+
+#Dimensional modeling
+![image]()
