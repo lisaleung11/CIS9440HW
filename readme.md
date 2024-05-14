@@ -21,7 +21,7 @@ This folder contains:
 https://github.com/lisaleung11/CIS9440HW/blob/main/docs/data%20dictionary.txt
 
 -visualization PowerPoint 
-https://github.com/lisaleung11/CIS9440HW/blob/main/docs/Alzheimer%20powerpoint.pptx
+https://github.com/lisaleung11/CIS9440HW/blob/main/docs/Alzheimer%20and%20health%20powerpoint.pptx
 
 # Dimensional modeling
 ![image](https://github.com/lisaleung11/CIS9440HW/blob/main/dimension%20modeling.png)
