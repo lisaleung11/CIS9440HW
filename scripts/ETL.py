@@ -298,7 +298,7 @@ mean_df.info()
 
 # Database connection URL
 # Replace the placeholders with your actual database credentials
-pwd = 'Cis9440dw124!'
+pwd = 'Hide'
 database_url = f'postgresql://laishan:{pwd}@cis9440baruchdw.postgres.database.azure.com/postgres'
 
 # Create a SQLAlchemy engine
